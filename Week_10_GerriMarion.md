@@ -14,6 +14,8 @@ When I first started my research, I had to switch my 10 men and women to 5 mascu
 
 I tried to be as specific as possible with my variables as someone who both plays and thoroughly enjoys the game, but I'm sure I missed out on things since it's still being updated for additional content. The biggest variable shift that I included is if players seek out additional, outside sources for help. It isn't uncommon for players to turn to the Wiki for guidance or schedules for characters, and I'm curious if that'll play into a person's overall completion of their "100 Days in/of Stardew Valley" videos. 
 
+*Update 4/16: should be Journal 9!"*
+
 ---
 
 **Tags:** #journal #weekX
