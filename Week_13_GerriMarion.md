@@ -15,8 +15,6 @@ I figure that I'll use the summarise and compare methods the most with my own da
 
 All in all, it'll be fun to play around with and see what looks the best and makes the most sense for my own datasets. 
 
-*Update 4/16: should be "journal 12" entry!*
-
 ---
 
 **Tags:** #journal #weekX
