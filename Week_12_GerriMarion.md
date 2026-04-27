@@ -17,8 +17,6 @@ I'm used to fighting with apps like EAPlay and having to troubleshoot or recode 
 
 Hopefully I'll have a smoother time with my own dataset, but I'll still flick through everything as a precautionary and academic integrity. It's still code based around people and their interactions, and therefore should still be handled with care. There may also be things that I didn't think I missed but really did, and I'd like to make sure that's resolved before I move forward into the final project. 
 
-*Update 4/16: should be "journal 11" entry!*
-
 ---
 
 **Tags:** #journal #weekX
